@@ -13,5 +13,5 @@ The main purpose of this repository is to organize and maintain all OOP tasks fo
 
 ---
 
-💻 *Developed and maintained by student of Karachi University (UBIT) -  Syeda Alishba**
+💻 *Developed and maintained by student of Karachi University (UBIT) -  Syeda Alishba*
 
